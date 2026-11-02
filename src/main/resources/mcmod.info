@@ -1,0 +1,21 @@
+[
+  {
+    "modid": "mappetsoundfix",
+    "name": "Mappet Sound Fix",
+    "description": "Fixes custom Mappet sounds whose file names contain upper-case letters not loading on case-sensitive file systems (Linux/macOS).",
+    "version": "${modVersion}",
+    "mcversion": "1.12.2",
+    "authorList": [
+      "Kerilom"
+    ],
+    "credits": "Thanks to McHorse (Mappet) and Rongmario (MixinBooter).",
+    "useDependencyInformation": true,
+    "requiredMods": [
+      "mappet",
+      "mixinbooter"
+    ],
+    "dependencies": [
+      "mappet"
+    ]
+  }
+]
